@@ -23,3 +23,5 @@
 2. All image files must be in **BMP** format.
 3. Try to keep image file sizes small.
 4. I am not responsible for any damage to your device. You know what you are doing.
+
+[![Watch on Telegram](https://img.shields.io/badge/Watch%20on-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Genhodee/251887)
