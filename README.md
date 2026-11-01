@@ -24,4 +24,6 @@
 3. Try to keep image file sizes small.
 4. I am not responsible for any damage to your device. You know what you are doing.
 
-[![Watch on Telegram](https://img.shields.io/badge/Watch%20on-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Genhodee/251887)
+## Video Guide
+
+Watch the sample on Telegram: [Raphael logo guide](https://t.me/Genhodee/251887)
